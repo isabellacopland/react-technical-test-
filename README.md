@@ -7,7 +7,7 @@ The app was built with React, and used React Testing Library and Jest for testin
 
 # Screenshots 
 
-![My Image](Screenshot1.png)
+![My Image](/public/Screenshot1.pngScreenshot1.png)
 
 # Instructions 
 
@@ -19,8 +19,8 @@ The app was built with React, and used React Testing Library and Jest for testin
 
 # If I had more time
 
-<ul> Cleaning up code to be as DRY as possible
-<ul> Add more styling to the webpage, with some instructions to improve the UX
+- Cleaning up code to be as DRY as possible
+- Add more styling to the webpage, with some instructions to improve the UX
 
 # Author's name
 
