@@ -7,7 +7,7 @@ The app was built with React, and used React Testing Library and Jest for testin
 
 # Screenshots 
 
-![My Image](/public/Screenshot1.pngScreenshot1.png)
+![My Image](/public/Screenshot1.png)
 
 # Instructions 
 
