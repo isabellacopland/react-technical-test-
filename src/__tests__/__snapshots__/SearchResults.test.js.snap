@@ -1,0 +1,20 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Search Results renders correctly 1`] = `
+<DocumentFragment>
+  <div
+    class="search-results__image"
+  >
+    <img
+      alt="spaceImage"
+      class="card-image"
+      src="test"
+    />
+    <img
+      alt="spaceImage"
+      class="card-image"
+      src="test"
+    />
+  </div>
+</DocumentFragment>
+`;

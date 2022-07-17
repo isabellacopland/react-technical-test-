@@ -1,0 +1,19 @@
+.search-input {
+    width: 20%;
+    height: 50px;
+    border-radius: 11px;
+    font-size: 20px;
+    padding: 0 10px;
+    text-align: center;
+  }
+
+.search-form {
+  text-align: center;
+}
+
+.search-btn {
+  background-color: royalblue;
+  border-radius: 5px;
+  text-shadow: 1ch;
+  height: 30px;
+}
