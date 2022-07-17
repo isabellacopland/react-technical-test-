@@ -11,11 +11,11 @@ The app was built with React, and used React Testing Library and Jest for testin
 
 # Instructions 
 
-<ul> Clone this repo
-<ul> cd into repo
-<ul> Run npm install to install required dependencies
-<ul> Run npm start to start the project, the app will compile on localhost 3000 and will open in browser automatically
-<ul> Run npm test to tests if desired
+1.  Clone this repo
+2. cd into repo
+3. Run npm install to install required dependencies
+4. Run npm start to start the project, the app will compile on localhost 3000 and will open in browser automatically
+5. Run npm test to tests if desired
 
 # If I had more time
 
